@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello Everyone!
+
+## 自己紹介
+- 🎓 OMU 現シス知情
+- 🐣 ひよっこ駆け出し開発者
+- 🤔 MixedRearityのアプリケーション開発（Unity, HoloLens2）
+- 🐟 魚が好きです
+
 
 <!--
 **nanarin11/nanarin11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
