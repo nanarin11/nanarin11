@@ -1,6 +1,5 @@
 # Hello Everyone!
 
-## 自己紹介
 - 🎓 OMU 現シス知情
 - 🐣 ひよっこ駆け出し開発者
 - 🤔 MixedRearityのアプリケーション開発（Unity, HoloLens2）
