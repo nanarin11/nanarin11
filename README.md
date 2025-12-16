@@ -1,4 +1,4 @@
-## Hello Everyone!
+# Hello Everyone!
 
 ## 自己紹介
 - 🎓 OMU 現シス知情
